@@ -13,6 +13,7 @@ public class multiply {
 		return a%b;
 	}
 	public int add(int a, int b) {
+		a = 100;
 		return a+b;
 	}
 }
