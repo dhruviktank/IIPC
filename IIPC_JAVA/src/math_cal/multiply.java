@@ -7,4 +7,7 @@ public class multiply {
 	public float div(float a, float b) {
 		return a/b;
 	}
+	public int mod(int a, int b) {
+		return a%b;
+	}
 }
