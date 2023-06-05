@@ -8,6 +8,7 @@ public class multiply {
 		return a/b;
 	}
 	public int mod(int a, int b) {
+		a = 50;
 		return a%b;
 	}
 	public int add(int a, int b) {
