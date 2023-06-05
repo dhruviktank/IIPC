@@ -9,6 +9,7 @@ public class multiply {
 	}
 	public int mod(int a, int b) {
 		a = 50;
+		b = 100;
 		return a%b;
 	}
 	public int add(int a, int b) {
