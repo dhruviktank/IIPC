@@ -1,6 +1,5 @@
 package IIPC_JAVA;
 import math_cal.multiply;
-
 public class package_demo {
 	public static void main(String args[]) {
 		multiply m = new multiply();

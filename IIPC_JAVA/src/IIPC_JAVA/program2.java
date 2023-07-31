@@ -8,6 +8,7 @@ public class program2 {
 		int a = sc.nextInt();
 		int b = sc.nextInt();
 		System.out.println(bigNumber(a,b));
+		sc.close();
 	}
 	static int bigNumber(int a, int b) {
 		return (a>b)?a:b;
