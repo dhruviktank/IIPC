@@ -5,5 +5,5 @@
  * @author Dhruvik
  *
  */
-module IIPC_JAVA {
+module IIPC_Collection_Java {
 }

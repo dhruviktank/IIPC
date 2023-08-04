@@ -30,7 +30,7 @@ public class ExceptionDemo {
 		System.out.println("Hello World");
 	}
 }
-public class CustomException extends Exception{
+class CustomException extends Exception{
 	public String toString() {
 		return "denomenator cannot be zero";
 	}
